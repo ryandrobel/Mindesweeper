@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Mindesweeper.git/static/css/main.9d551caf.chunk.css",
-    "main.js": "/Mindesweeper.git/static/js/main.60cba5b3.chunk.js",
-    "main.js.map": "/Mindesweeper.git/static/js/main.60cba5b3.chunk.js.map",
-    "runtime-main.js": "/Mindesweeper.git/static/js/runtime-main.b319ed50.js",
-    "runtime-main.js.map": "/Mindesweeper.git/static/js/runtime-main.b319ed50.js.map",
-    "static/js/2.9afe5dd4.chunk.js": "/Mindesweeper.git/static/js/2.9afe5dd4.chunk.js",
-    "static/js/2.9afe5dd4.chunk.js.map": "/Mindesweeper.git/static/js/2.9afe5dd4.chunk.js.map",
-    "index.html": "/Mindesweeper.git/index.html",
-    "static/css/main.9d551caf.chunk.css.map": "/Mindesweeper.git/static/css/main.9d551caf.chunk.css.map",
-    "static/js/2.9afe5dd4.chunk.js.LICENSE.txt": "/Mindesweeper.git/static/js/2.9afe5dd4.chunk.js.LICENSE.txt"
+    "main.css": "/Mindesweeper/static/css/main.9d551caf.chunk.css",
+    "main.js": "/Mindesweeper/static/js/main.60cba5b3.chunk.js",
+    "main.js.map": "/Mindesweeper/static/js/main.60cba5b3.chunk.js.map",
+    "runtime-main.js": "/Mindesweeper/static/js/runtime-main.7758e955.js",
+    "runtime-main.js.map": "/Mindesweeper/static/js/runtime-main.7758e955.js.map",
+    "static/js/2.9afe5dd4.chunk.js": "/Mindesweeper/static/js/2.9afe5dd4.chunk.js",
+    "static/js/2.9afe5dd4.chunk.js.map": "/Mindesweeper/static/js/2.9afe5dd4.chunk.js.map",
+    "index.html": "/Mindesweeper/index.html",
+    "static/css/main.9d551caf.chunk.css.map": "/Mindesweeper/static/css/main.9d551caf.chunk.css.map",
+    "static/js/2.9afe5dd4.chunk.js.LICENSE.txt": "/Mindesweeper/static/js/2.9afe5dd4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b319ed50.js",
+    "static/js/runtime-main.7758e955.js",
     "static/js/2.9afe5dd4.chunk.js",
     "static/css/main.9d551caf.chunk.css",
     "static/js/main.60cba5b3.chunk.js"
