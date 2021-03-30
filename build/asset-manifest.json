@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mindesweeper.git/static/css/main.9d551caf.chunk.css",
+    "main.js": "/Mindesweeper.git/static/js/main.60cba5b3.chunk.js",
+    "main.js.map": "/Mindesweeper.git/static/js/main.60cba5b3.chunk.js.map",
+    "runtime-main.js": "/Mindesweeper.git/static/js/runtime-main.b319ed50.js",
+    "runtime-main.js.map": "/Mindesweeper.git/static/js/runtime-main.b319ed50.js.map",
+    "static/js/2.9afe5dd4.chunk.js": "/Mindesweeper.git/static/js/2.9afe5dd4.chunk.js",
+    "static/js/2.9afe5dd4.chunk.js.map": "/Mindesweeper.git/static/js/2.9afe5dd4.chunk.js.map",
+    "index.html": "/Mindesweeper.git/index.html",
+    "static/css/main.9d551caf.chunk.css.map": "/Mindesweeper.git/static/css/main.9d551caf.chunk.css.map",
+    "static/js/2.9afe5dd4.chunk.js.LICENSE.txt": "/Mindesweeper.git/static/js/2.9afe5dd4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b319ed50.js",
+    "static/js/2.9afe5dd4.chunk.js",
+    "static/css/main.9d551caf.chunk.css",
+    "static/js/main.60cba5b3.chunk.js"
+  ]
+}
